@@ -1,0 +1,35 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #FFA3A5;
+    font-family: 'Poppins';
+}
+
+.description, .logo-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #F0EFF4;
+}
+
+#card {
+    width: 400px;
+    background-color: #FFBF81;
+    margin: 190px auto;
+    padding: 15px 16px 75px 16px;
+    border-radius: 20px;
+}
+
+.image {
+    width: 100%;
+    border-radius: 15px;
+}
+
+#logo {
+    display: flex;
+}
+
+.logo-image {
+    width: 50px;
+    padding-right: 15px;
+}
